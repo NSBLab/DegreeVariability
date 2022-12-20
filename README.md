@@ -11,12 +11,12 @@ This work has been motivated by papers and code written by [Stuart Oldham](https
 
 ## Usage
 0. `CalcSTRthr` takes in the raw data and generates the processed data
-	0. This step is optional - the processed data can be downloaded
-	1. Thresholds can be adjusted here, if desired
-	2. New group reconstruction algorithms can be added here, if desired
+	1. This step is optional - the processed data can be downloaded
+	2. Thresholds can be adjusted here, if desired
+	3. New group reconstruction algorithms can be added here, if desired
 1. `RunAnalysis` generates summary plots of all the pipelines including heatmaps and surface area correlations
-	0. This step is optional
-	1. Note that this takes a long time
+	1. This step is optional
+	2. Note that this takes a long time
 2. The files in `./SCRIPTS/FigureFunctions` generate the figures from the paper
 
 ## Compatibility
