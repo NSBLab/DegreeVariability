@@ -23,7 +23,7 @@ This work has been motivated by papers and code written by [Stuart Oldham](https
 The code has been tested on versions of MATLAB from R2019b to R2021b.
 
 ## See Also
-- Paper - to be released
+- [Preprint](https://www.biorxiv.org/content/10.1101/2022.12.21.521366v1) available at https://www.biorxiv.org/content/10.1101/2022.12.21.521366v1
 - [Data](https://doi.org/10.26180/c.6352886.v1) available at https://doi.org/10.26180/c.6352886.v1
 - This work follows on from work by Stuart Oldham and colleagues - see their [paper](https://www.sciencedirect.com/science/article/pii/S1053811920307382), [code](https://github.com/BMHLab/MotionStructuralConnectivity), and [data](https://doi.org/10.26180/5e7313d012cee) (all openly available)
 
